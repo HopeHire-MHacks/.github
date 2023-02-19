@@ -21,8 +21,8 @@ _Please make use of the demo accounts provided to fully experience the capabilit
 - Password: `Employer@`
 
 **Employee Demo Account**
-- Email: `employee@gmail.com`
-- Password:`Employee@`
+- Email: `person4@gmail.com`
+- Password:`Person4@`
 
 ## Meet the Team!
 - Shenyi • [LinkedIn](https://www.linkedin.com/in/ShenyiCui) • [Github](https://github.com/ShenyiCui) • [Portfolio](https://shenyicui.dev/)
